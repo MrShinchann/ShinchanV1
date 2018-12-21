@@ -83,7 +83,7 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[+]===============================================[+]"
 echo "\033[32;1m"
-read -p "root@T00Ls-B4J1N64Nv6~#" bro
+read -p "root@T00Ls+MrShinchann~#" Njayy
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
