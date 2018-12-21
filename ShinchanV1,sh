@@ -287,3 +287,24 @@ cd $HOME/torshammer
 read -p "Masukan Target==>:" target
 python2 torshammer.py -T -t target
 fi
+
+if [ $bro = 0 ] || [ $bro = 00 ]
+then
+echo "\033[32;1mTeam Semut Attacker"
+sleep 1
+echo "\033[33;1mWe Attacker"
+sleep 1
+echo " We Are Family"
+sleep 1
+echo "We Are Attacker"
+sleep 1
+echo "We Not Hackers;)"
+sleep 1
+echo "Ketika Orang Menghina Lu"
+sleep 1
+echo "Anggap Aja Sebagai Motivasi:)"
+sleep 1
+echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
+sleep 1
+exit
+fi
